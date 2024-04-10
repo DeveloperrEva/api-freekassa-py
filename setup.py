@@ -3,7 +3,7 @@ from textwrap import dedent
 
 setup(
       name="ApiFK_frekassa",
-      version='0.1',
+      version='0.2',
       packages=['ApiFK_frekassa'],
       description='FreeKassa API. Check Balance + check status',
       long_description=dedent("""

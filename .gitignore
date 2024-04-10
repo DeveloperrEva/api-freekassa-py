@@ -1,5 +1,5 @@
 build/
 .history
 dist/
-api-freekassa-py.egg-info
+ApiFK_frekassa.egg-info
 .pypirc
