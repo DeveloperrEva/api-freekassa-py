@@ -1,0 +1,5 @@
+build/
+.history
+dist/
+api-freekassa-py.egg-info
+.pypirc
