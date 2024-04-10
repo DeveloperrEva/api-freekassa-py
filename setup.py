@@ -2,12 +2,12 @@ from setuptools import setup
 from textwrap import dedent
 
 setup(
-      name="api-freekassa-py",
+      name="ApiFK_frekassa",
       version='0.1',
-      packages=['api-freekassa-py'],
+      packages=['ApiFK_frekassa'],
       description='FreeKassa API. Check Balance + check status',
       long_description=dedent("""
-        pip install api-freekassa-py
+        pip install ApiFK_frekassa
         Docs: https://github.com/DeveloperrEva/api-freekassa-py
         """),
       url='https://freekassa.ru/',
